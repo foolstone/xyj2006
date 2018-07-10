@@ -1,3 +1,33 @@
 # ignore following file & folders
 .DS_Store
 
+*.LOG
+*.o
+world/log/ALLCONT
+world/log/log
+*.o
+world/log/debug.log
+world/log/death
+world/log/counter_for_web
+world/log/condition.err
+world/log/ALLCONT
+world/data/zhangmen/zhangmen_yu_shu.o
+world/data/zhangmen/zhangmen_honghai_er.o
+world/data/zhangmen/zhangmen_dapeng_mingwang.o
+world/data/zhangmen/zhangmen_ao_guang.o
+world/data/npc/boss/yuhua_jiu_bao.o
+world/data/npc/boss/wuji_ye_dasao.o
+world/data/npc/boss/wuji_xiaoer_er.o
+world/data/npc/boss/wudidong_waiter.o
+world/data/npc/boss/wudidong_blacksmith.o
+world/data/npc/boss/qinfa_zhou_xiaoer.o
+world/data/npc/boss/qinfa_zheng_guafu.o
+world/data/npc/boss/qinfa_sun_xiaoer.o
+world/data/npc/boss/qinfa_qian_guafu.o
+world/data/npc/boss/qinfa_li_guafu.o
+world/data/npc/boss/qinfa_chen_xiaoer.o
+world/data/npc/boss/baoxiang_fang_zhu.o
+world/d/qujing/baotou/npc/WS_FTP.LOG
+world/config.cfg
+world/adm/etc/wizlist
+world/adm/daemons/record_times
